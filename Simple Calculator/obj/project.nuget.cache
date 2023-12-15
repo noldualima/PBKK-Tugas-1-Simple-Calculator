@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dc17380fwPPsuniwPuTI6JOwvplrm2xWcOwRxdjPkMJ39I/Cy4y17LUIRJLWvYXAIo4s+EEygOY8/iANLuViBg==",
+  "success": true,
+  "projectFilePath": "D:\\PBKK\\Simple-Calculator\\Simple Calculator\\Simple Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\COMPUTER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
